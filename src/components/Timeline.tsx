@@ -60,7 +60,7 @@ const organizationDetails: Record<
       "Focuses on preserving tribal culture while fostering social assimilation",
     ],
   },
-  bjs: {
+  bjp: {
     description:
       "The Bharatiya Jana Sangh was the earlier avatar of the BJP, now the world's largest political party. After resigning from Jawaharlal Nehru's cabinet, Dr. Shyama Prasad Mukherjee requested volunteers from the RSS to form a political party. The then RSS chief, Guruji (M. S. Golwalkar), agreed, and the Jana Sangh was established in 1951. In 1980, it was rechristened as the Bharatiya Janata Party (BJP).",
     extendedMilestones: [
@@ -200,7 +200,7 @@ const organizationDetails: Record<
       "Connected with more than 20,000 cooperative societies",
     ],
   },
-  agp: {
+  abgp: {
     description:
       "The Akhil Bhartiya Grahak Panchayat (ABGP) is an Indian consumer organization dedicated to promoting consumer rights and fostering ethical practices among producers and sellers. Founded in 1975 by the late Bindu Madhav Joshi, a freedom fighter and RSS swayamsevak. ABGP aims to create a harmonious society by balancing the interests of farmers, producers, sellers, consumers, and administrators.",
     extendedMilestones: [
@@ -351,7 +351,7 @@ const organizationDetails: Record<
       "Organizes annual social awareness programs",
     ],
   },
-  "rss-2": {
+  rss_samiti: {
     description:
       "The Rashtrasevika Samiti was founded in 1936 by Lakshmibai Kelkar (Mausiji) in Nagpur after consulting Dr Keshav Baliram Hedgewar, founder of RSS. It consists of women volunteers and focuses on empowering women and fostering their participation in social and national development.",
     extendedMilestones: [
@@ -567,11 +567,16 @@ const Timeline: React.FC = () => {
       .attr("fill", (d) => {
         const periodIndex = timelineData.findIndex((p) => p.id === d.periodId);
         const colors = [
-          "rgba(255, 105, 180, 0.8)", // Pink
-          "rgba(65, 105, 225, 0.8)", // Royal Blue
-          "rgba(50, 205, 50, 0.8)", // Lime Green
-          "rgba(255, 215, 0, 0.8)", // Gold
-          "rgba(255, 69, 0, 0.8)", // Orange Red
+          // "rgba(255, 105, 180, 0.8)", // Pink
+          // "rgba(65, 105, 225, 0.8)", // Royal Blue
+          // "rgba(50, 205, 50, 0.8)", // Lime Green
+          // "rgba(255, 215, 0, 0.8)", // Gold
+          // "rgba(255, 69, 0, 0.8)", // Orange Red
+          "rgba(255, 255, 255, 0.8)", // Pink
+          "rgba(255, 255, 225, 0.8)", // Royal Blue
+          "rgba(255, 255, 255, 0.8)", // Lime Green
+          "rgba(255, 255, 255, 0.8)", // Gold
+          "rgba(255, 255, 255, 0.8)", // Orange Red
         ];
         return colors[periodIndex % colors.length];
       })
@@ -598,13 +603,13 @@ const Timeline: React.FC = () => {
       .attr("preserveAspectRatio", "xMidYMid slice");
 
     // Add year text
-    nodeElements
-      .append("text")
-      .attr("text-anchor", "middle")
-      .attr("dy", ".3em")
-      .attr("fill", "white")
-      .attr("class", "text-sm font-semibold select-none")
-      .text((d) => d.year);
+    // nodeElements
+    //   .append("text")
+    //   .attr("text-anchor", "middle")
+    //   .attr("dy", ".3em")
+    //   .attr("fill", "white")
+    //   .attr("class", "text-sm font-semibold select-none")
+    //   .text((d) => d.year);
 
     // Set up force simulation
     const simulation = d3
