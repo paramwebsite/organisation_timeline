@@ -791,14 +791,14 @@ const Timeline: React.FC = () => {
       className="min-h-screen bg-slate-900 p-4 md:p-8 flex flex-col items-center"
       ref={containerRef}
     >
-      <div className="absolute top-4 left-4 z-50">
-      <Logo /> {/* Replace with your actual component */}
-    </div>
-
+      <Logo/>
       <LanguageToggle />
-      <h1 className="text-3xl md:text-4xl font-bold text-center mb-8 text-white">
+      <h1 className="text-3xl md:text-4xl font-bold text-center mb-8 text-orange-400">
         {t("title")}
       </h1>
+      <h3 className="text-2xl md:text-2xl font-bold text-center mb-8 text-yellow-100">
+        {t("description")}
+      </h3>
 
       <div className="relative bg-slate-800/50 rounded-xl p-4 shadow-lg backdrop-blur-sm w-full max-w-[1300px] mx-auto flex justify-center">
         <svg

@@ -8,13 +8,11 @@ export default function Logo() {
       whileHover={{ scale: 1.1 }}
       whileTap={{ scale: 0.95 }}
     >
-      <div className="w-10 sm:w-12 md:w-16">
+      <div className="w-24 sm:w-24 md:w-24 ">
         <img
-          src="/images/White.png"
+          src="\images\White.png"
           alt="Panch Parivartan Logo"
           className="w-full h-auto object-contain"
-          width={100}
-          height={100}
         />
       </div>
     </motion.div>
