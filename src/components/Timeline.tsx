@@ -7,6 +7,7 @@ import { TimelinePeriod, Organization } from "../types";
 import { timelineData } from "../data";
 import { useTranslation } from "react-i18next";
 import i18n from "../i18n"; // Import the i18n configuration
+import Logo from "./logo";
 
 // Extended organization details from the provided content
 const organizationDetails: Record<
@@ -790,6 +791,10 @@ const Timeline: React.FC = () => {
       className="min-h-screen bg-slate-900 p-4 md:p-8 flex flex-col items-center"
       ref={containerRef}
     >
+      <div className="absolute top-4 left-4 z-50">
+      <Logo /> {/* Replace with your actual component */}
+    </div>
+
       <LanguageToggle />
       <h1 className="text-3xl md:text-4xl font-bold text-center mb-8 text-white">
         {t("title")}
