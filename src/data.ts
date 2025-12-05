@@ -1,4 +1,40 @@
 import { TimelinePeriod } from './types';
+import rss1 from '../src/images/Rss1.png';
+import Rashtra_sevika_samithi from '../src/images/Rashtra_sevika_samithi.png';
+import abvp from '../src/images/abvp.png';
+import bjp from '../src/images/bjp.png';
+import Vidya_Bharati from '../src/images/Vidya_Bharati.png';
+import Vanavasi_Kalyan_Ashram from '../src/images/Vanavasi_Kalyan_Ashram.png';
+import Bharatiya_Mazdoor_Sangh from '../src/images/Bharatiya_Mazdoor_Sangh.png';
+import Bharat_Vikas_Parishad from '../src/images/Bharat_Vikas_Parishad.png';
+import VHP from '../src/images/VHP.png';
+import dindayal_shodh_sansthan from '../src/images/dindayal_shodh_sansthan.png';
+import grahaka_panchayat from '../src/images/grahaka_panchayat.png';
+import bks from '../src/images/bks.png';
+import sahkar_bharti from '../src/images/sahkar_bharti.png';
+import Hindu_Seva_Pratishthana from '../src/images/Hindu_Seva_Pratishthana.png';
+import Sanskar_Bharti_Logo from '../src/images/Sanskar_Bharti_Logo.png';
+import SamskritaBharati from '../src/images/SamskritaBharati.png';
+import Hindu_Jagran_Manch from '../src/images/Hindu_Jagran_Manch.png';
+import samajik_samarasata from '../src/images/samajik_samarasata.png';
+import rashtriya_shikshak_sangh from '../src/images/rashtriya_shikshak_sangh.png';
+import Sanskar_Bharti from '../src/images/sahkar_bharti.png';
+import SwadeshiJagranManch from '../src/images/SwadeshiJagranManch.png';
+import VijnanaBharati from '../src/images/VijnanaBharati.png';
+import Kreeda_Bharati from '../src/images/Kreeda_Bharati.png';
+import akhila_bharatiya_adhivakta_parishad from '../src/images/Akhil_Bharatiya_Sahitya_Parishad.png';
+import Saksham_logo from '../src/images/Saksham_logo.png';
+import Prajna_Pravah from '../src/images/Prajna_Pravah.png';
+import Vishwa_samvada_Kendra from '../src/images/Vishwa_samvada_Kendra.png';
+import itihasa_sankalan_samithi from '../src/images/itihasa_sankalan_samithi.png';
+import Laghu_Vidya_Bharti from '../src/images/Laghu_Vidya_Bharti.png';
+import abpssp from '../src/images/abpssp.jpg';
+import arogya_bharati from '../src/images/arogya_bharati.png';
+import fins from '../src/images/fins.png';
+import Samartha_Bharata from '../src/images/Samartha_Bharata.png'
+
+
+
 
 export const timelineData: TimelinePeriod[] = [
   {
@@ -11,7 +47,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'rss',
         name: 'Rashtriya Swayamsevak Sangh',
         year: 1925,
-        image: '/images/Rss1.png',
+        image: rss1,
         mission: 'Cultural and social organization focused on national development through individual character building.',
         milestones: [
           'Founded by Dr. K.B. Hedgewar in Nagpur',
@@ -23,7 +59,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'rss_samiti',
         name: 'Rashtra Sevika Samiti',
         year: 1936,
-        image: '/images/Rashtra_sevika_samithi.png',
+        image: Rashtra_sevika_samithi,
         mission: "Women's organization dedicated to national service and cultural preservation.",
         milestones: [
           'Founded by Laxmibai Kelkar',
@@ -35,7 +71,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'abvp',
         name: 'Akhil Bharatiya Vidyarthi Parishad',
         year: 1948,
-        image: '/images/abvp.png',
+        image: abvp,
         mission: 'Student organization focused on nation-building and educational reform.',
         milestones: [
           'Established in Mumbai',
@@ -55,7 +91,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'bjp',
         name: 'Bharatiya Janata Party',
         year: 1951,
-        image: '/images/bjp.png',
+        image: bjp,
         mission: 'Political organization promoting nationalist ideology and cultural values.',
         milestones: [
           'Founded by Dr. Syama Prasad Mookerjee',
@@ -67,7 +103,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'vka',
         name: 'Vanavasi Kalyan Ashram',
         year: 1952,
-        image: '/images/Vanavasi_Kalyan_Ashram.png',
+        image: Vanavasi_Kalyan_Ashram,
         mission: 'Organization working for tribal welfare and development.',
         milestones: [
           'Established first center',
@@ -79,7 +115,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'vb',
         name: 'Vidya Bharati',
         year: 1952,
-        image: '/images/Vidya_Bharati.png',
+        image: Vidya_Bharati,
         mission: 'Educational organization promoting value-based education.',
         milestones: [
           'Started Shishu Mandirs in 1952',
@@ -91,7 +127,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'bms',
         name: 'Bharatiya Mazdoor Sangh',
         year: 1955,
-        image: '/images/Bharatiya_Mazdoor_Sangh.png',
+        image: Bharatiya_Mazdoor_Sangh,
         mission: 'Trade union organization promoting worker welfare.',
         milestones: [
           'Founded by Dattopant Thengadi',
@@ -103,7 +139,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'bvp',
         name: 'Bharat Vikas Parishad',
         year: 1963,
-        image: '/images/Bharat_Vikas_Parishad.png',
+        image: Bharat_Vikas_Parishad,
         mission: 'Development organization focused on national progress through local initiatives.',
         milestones: [
           'Launched community development projects',
@@ -115,7 +151,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'vhp',
         name: 'Vishwa Hindu Parishad',
         year: 1964,
-        image: '/images/VHP.png',
+        image:VHP,
         mission: 'Cultural organization promoting Hindu values and heritage.',
         milestones: [
           'Founded with a focus on social reform',
@@ -127,7 +163,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'dri',
         name: 'Deendayal Research Institute',
         year: 1968,
-        image: '/images/dindayal_shodh_sansthan.png',
+        image: dindayal_shodh_sansthan,
         mission: 'Research organization focusing on socio-economic development.',
         milestones: [
           'Established research framework',
@@ -147,7 +183,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'abgp',
         name: 'Akhil Bharatiya Grahak Panchayat',
         year: 1975,
-        image: '/images/grahaka_panchayat.png',
+        image:grahaka_panchayat,
         mission: 'Consumer protection and awareness organization.',
         milestones: [
           'Established consumer rights framework',
@@ -159,7 +195,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'bks',
         name: 'Bharatiya Kisan Sangh',
         year: 1978,
-        image: '/images/bks.png',
+        image: bks,
         mission: "Farmers' organization promoting agricultural development.",
         milestones: [
           'Founded for farmer welfare',
@@ -171,7 +207,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'sb',
         name: 'Sahakar Bharati',
         year: 1979,
-        image: '/images/sahkar_bharti.png',
+        image: sahkar_bharti,
         mission: 'Organization dedicated to cooperative development and mutual support.',
         milestones: [
           'Initiated cooperative programs',
@@ -183,7 +219,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'hsp',
         name: 'Hindu Seva Pratishthana',
         year: 1980,
-        image: '/images/Hindu_Seva_Pratishthana.png',
+        image: Hindu_Seva_Pratishthana,
         mission: 'Organization focused on community service and social welfare.',
         milestones: [
           'Launched community service initiatives',
@@ -195,7 +231,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'sanskar',
         name: 'Sanskar Bharati',
         year: 1981,
-        image: '/images/Sanskar_Bharti_Logo.png',
+        image: Sanskar_Bharti_Logo,
         mission: 'Cultural organization promoting Indian heritage and values.',
         milestones: [
           'Organized cultural festivals',
@@ -207,7 +243,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'samskrita',
         name: 'Samskrita Bharati',
         year: 1981,
-        image: '/images/SamskritaBharati.png',
+        image: SamskritaBharati,
         mission: 'Organization dedicated to the promotion of Sanskrit language and literature.',
         milestones: [
           'Initiated Sanskrit learning programs',
@@ -219,7 +255,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'hjm',
         name: 'Hindu Jagran Manch',
         year: 1982,
-        image: '/images/Hindu_Jagran_Manch.png',
+        image: Hindu_Jagran_Manch,
         mission: 'Organization focused on promoting Hindu awareness and cultural revival.',
         milestones: [
           'Started awareness campaigns',
@@ -231,7 +267,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'ssm',
         name: 'Samajik Samrasta Manch',
         year: 1983,
-        image: '/images/samajik_samarasata.png',
+        image: samajik_samarasata,
         mission: 'Social organization dedicated to fostering communal harmony and social unity.',
         milestones: [
           'Promoted social integration programs',
@@ -243,7 +279,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'abrsm',
         name: 'Akhil Bharatiya Rashtriya Shaikshik Mahasangh',
         year: 1988,
-        image: '/images/rashtriya_shikshak_sangh.png',
+        image:rashtriya_shikshak_sangh,
         mission: 'Educational organization focusing on national academic excellence.',
         milestones: [
           'Established academic networks',
@@ -255,7 +291,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'seva',
         name: 'Seva Bharati',
         year: 1989,
-        image: '/images/Sanskar_Bharti.png',
+        image: Sanskar_Bharti,
         mission: 'Volunteer organization dedicated to social service and community development.',
         milestones: [
           'Launched volunteer programs',
@@ -275,7 +311,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'sjm',
         name: 'Swadeshi Jagaran Manch',
         year: 1991,
-        image: '/images/SwadeshiJagranManch.png',
+        image: SwadeshiJagranManch,
         mission: 'Economic nationalist organization promoting indigenous development.',
         milestones: [
           'Founded to promote indigenous economy',
@@ -287,7 +323,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'vibha',
         name: 'Vijnana Bharati',
         year: 1991,
-        image: '/images/VijnanaBharati.png',
+        image: VijnanaBharati,
         mission: 'Science and technology organization promoting research and innovation.',
         milestones: [
           'Established research network',
@@ -299,7 +335,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'kreeda',
         name: 'Kreeda Bharati',
         year: 1992,
-        image: '/images/Kreeda_Bharati.png',
+        image: Kreeda_Bharati,
         mission: 'Sports organization promoting indigenous sports and athletic development.',
         milestones: [
           'Launched national sports programs',
@@ -311,7 +347,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'abap',
         name: 'Akhil Bharatiya Adhivakta Parishad',
         year: 1992,
-        image: '/images/akhila_bharatiya_adhivakta_parishad.png',
+        image:akhila_bharatiya_adhivakta_parishad,
         mission: 'Debate and  speaking organization focused on fostering dialogue and discourse.',
         milestones: [
           'Organized national debates',
@@ -323,7 +359,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'sakshama',
         name: 'Sakshama Karnataka',
         year: 1992,
-        image: '/images/Saksham_logo.png',
+        image: Saksham_logo,
         mission: 'Regional organization promoting local governance and civic participation.',
         milestones: [
           'Launched regional civic initiatives',
@@ -335,7 +371,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'prajna',
         name: 'Prajna Pravah',
         year: 1992,
-        image: '/images/Prajna_Pravah.png',
+        image: Prajna_Pravah,
         mission: 'Cultural organization promoting traditional arts and literature.',
         milestones: [
           'Organized cultural festivals',
@@ -347,7 +383,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'vsk',
         name: 'Vishwa Samvada Kendra',
         year: 1992,
-        image: '/images/Vishwa_samvada_Kendra.png',
+        image: Vishwa_samvada_Kendra,
         mission: 'Organization focused on facilitating national dialogue and communication.',
         milestones: [
           'Established communication networks',
@@ -359,7 +395,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'abisy',
         name: 'Akhil Bharatiya Itihas Sankalan Yojana',
         year: 1994,
-        image: '/images/itihasa_sankalan_samithi.png',
+        image: itihasa_sankalan_samithi,
         mission: 'Organization dedicated to the documentation and preservation of history.',
         milestones: [
           'Launched historical documentation projects',
@@ -371,7 +407,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'laghu',
         name: 'Laghu Udyog Bharati',
         year: 1994,
-        image: '/images/Laghu_Vidya_Bharti.png',
+        image: Laghu_Vidya_Bharti,
         mission: 'Organization promoting small scale industries and entrepreneurship.',
         milestones: [
           'Supported local small businesses',
@@ -383,7 +419,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'abpssp',
         name: 'Akhil Bharatiya Poorva Sainik Seva Parishad',
         year: 1995,
-        image: '/images/abpssp.jpg',
+        image: abpssp,
         mission: 'Veteran organization dedicated to the welfare of former military personnel.',
         milestones: [
           'Established veteran support networks',
@@ -395,7 +431,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'ab',
         name: 'Arogya Bharti',
         year: 2002,
-        image: '/images/arogya_bharati.png',
+        image: arogya_bharati,
         mission: 'Healthcare organization promoting traditional and modern medicine.',
         milestones: [
           'Founded for healthcare initiatives',
@@ -407,7 +443,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'fins',
         name: 'Forum for Integrated National Security',
         year: 2003,
-        image: '/images/fins.png',
+        image: fins,
         mission: 'Organization focused on national security and strategic affairs.',
         milestones: [
           'Established security framework',
@@ -419,7 +455,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'samartha',
         name: 'Samartha Bharata',
         year: 2014,
-        image: '/images/Samartha_Bharata.png',
+        image: Samartha_Bharata,
         mission: 'Organization dedicated to promoting holistic national development through integrated efforts.',
         milestones: [
           'Launched multi-sectoral development projects',
