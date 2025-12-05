@@ -1,0 +1,333 @@
+{
+  "title": "Organizational Timeline",
+  "toggle_language": "Switch Language",
+  "description": "Tap and explore the timeline of various organizations under RSS and their impact.",
+  "organization_details": "Organization Details",
+  "founded": "Founded",
+  "key_milestones": "Key Milestones",
+  "close": "Close",
+
+  "rss_description": "Rashtriya Swayamsevak Sangh builds character through the instrument of the Shakha. Individuals trained in this system often go on to establish organizations that embody the values taught by the RSS.",
+  "rss_milestones": [
+    "Founded on Vijaya Dashami in September 1925.",
+    "Established by Dr. Keshav Baliram Hedgewar with a handful of people.",
+    "Currently has nearly 50 lakh volunteers.",
+    "Runs more than 1,35,000 service projects across various organizations established by the Swayamsevaks.",
+    "Embodies the principles of man-making, organizing Hindu society, and helping India regain its civilizational glory."
+  ],
+
+  "vb_description": "Vidya Bharati is an organization focused on imparting Bharatiya values at the primary and secondary levels of education.Mission: To develop a national education system that instills patriotism and nationalism in the younger generation.",
+  "vb_milestones": [
+    "In addition to running its own chain of schools, Vidya Bharati collaborates with other educational institutions. Collectively, it has 29,000 affiliated institutions, 37,000 teachers, and 30 lakh students. The curriculum includes yoga, music, physical education, Sanskrit, spiritual and ethical education, science, Vedic mathematics, and Swadeshi ideas.",
+    "Vidya Bharati was formally established in 1977; however, Shishu Mandirs under the same banner have existed since 1952 and continue to operate today."
+  ],
+
+  "bms_description": "Bharatiya Mazdoor Sangh (BMS) is the largest trade union in India, with 1 crore members across various states and 5,000 affiliated organizations. It was founded on July 23, 1995, by Dattopant Thengadi, who was deputed from the RSS. BMS takes a different approach: It does not oppose any particular class but stands against injustice and exploitation.It prioritizes workers' interests while considering the broader national interest.It advocates for workers' participation rights along with their duties.Calling for strikes is considered a last resort.",
+
+  "bms_milestones": [
+    "Represented India at the International Labour Conference.",
+    "BMS was the only trade union that opposed the Emergency of 1975. Over 70,000 BMS members participated in Satyagraha, and 5,000 were jailed.",
+    "During the Chinese attack of 1962 and the Pakistan attack of 1965, BMS contributed to national defense by forming the 'Rashtriya Mazdoor Morcha.'"
+  ],
+
+  "vka_description": "Founded in 1952 by Balasaheb Deshpande, Vanavasi Kalyan Ashram works among these communities across India in the fields of education, healthcare, sports, skill development, livelihood, women's empowerment, and awareness of their rights. Vanavasi Kalyan Ashram is dedicated to preserving the rich culture and history of Janjati communities. By emphasizing a shared heritage, it aims to foster social assimilation, bridge the gap between mainstream Indian society and tribal communities, and empower Janjatis to become self-reliant and educated.",
+  "vka_milestones": [
+    "Approximately 10% of India’s population belongs to Janjatis (Scheduled Tribes, as per official classification).",
+    "Initiated educational programs",
+    "Currently runs 21,839 projects",
+    "Has presence in 63,926 villages",
+    "Focuses on preserving tribal culture while fostering social assimilation",
+    "Vanavasi Kalyan Ashram’s mission statement is framed in a conversational style:'Tu-Main Ek Rakt' (You and I share the same bloodline)."
+  ],
+
+  "bjp_description": "The Bharatiya Janata Party (BJP) is now the world's largest political party in terms of membership. The current Prime Minister, Narendra Modi, worked with the Rashtriya Swayamsevak Sangh (RSS) during his formative years.\n\nHow Did It Start?\nThe earlier avatar of the BJP was known as the Bharatiya Jana Sangh. After resigning from Jawaharlal Nehru’s cabinet, Dr. Shyama Prasad Mukherjee requested volunteers from the RSS to form a political party. The then RSS chief, Guruji (M. S. Golwalkar), agreed, and the Jana Sangh was established in 1951.",
+
+  "bjp_milestones": [
+    "1951: Founded as Bharatiya Jana Sangh by Dr. Shyama Prasad Mukherjee",
+    "1980: Bharatiya Jana Sangh rechristened as Bharatiya Janata Party (BJP)",
+    "1998: Pokhran nuclear tests conducted under Vajpayee government, strengthening India's defense capabilities",
+    "2019: Abrogation of Article 370, integrating Jammu & Kashmir with the rest of India",
+    "2022: Rajpath renamed as 'Kartavya Path' to emphasize public service",
+    "1990s-present: Implemented welfare schemes like Sarva Shiksha Abhiyan, Ujjwala Yojana, and Swachh Bharat Abhiyan, improving the lives of millions"
+  ],
+
+  "vhp_description": "Vishwa Hindu Parishad: One Dharma, One Brotherhood\n- Founded on 29th August 1964, on the auspicious occasion of Shri Krishna Janmashtami, Vishwa Hindu Parishad (VHP) is dedicated to organizing and uniting Hindu society while serving and protecting Sanatan Hindu Dharma.",
+
+  "vhp_milestones": [
+    "1964: Founded on the occasion of Shri Krishna Janmashtami to unite Hindu society.",
+    "1984: VHP played a major role in the Ram Janmabhoomi movement.",
+    "1990s: Led a nationwide campaign advocating for the Amarnath Yatra and Hindu pilgrimage rights.",
+    "2000s-Present: Continues to unite saints from various Hindu traditions on a common platform.",
+    "Ongoing: Active campaign against religious conversions to protect Sanatan Hindu Dharma.",
+    "Ongoing: Facilitated voluntary homecoming (‘Paravartan’) of lakhs of people to their original Hindu Dharma.",
+    "Present: Runs nearly 1 lakh service projects across education, healthcare, and self-empowerment."
+  ],
+  "abvp_description": "ABVP: Leading the Charge in National Reconstruction\n\nThe Akhil Bharatiya Vidyarthi Parishad (ABVP) is India’s largest student organization, striving to create a national movement in the education sector. It focuses on colleges and universities within the broader framework of national reconstruction.",
+
+  "abvp_milestones": [
+    "World Organisation of Students and Youth (WOSY): Established in 1985 with a world convention attended by 11,000 youth from across the globe. It promotes the theme of 'Vasudhaiva Kutumbakam'—'The whole world is one family.'",
+    "Think India: A platform that brings together young intellectuals and instills in them the ideals of 'Nation First.'",
+    "Students’ Experience in Interstate Living (SEIL): Seeks to integrate the youth of the Northeast region with the rest of Bharat.",
+    "Yuva Vikas Kendra: Works primarily in the Northeastern states, focusing on youth skill development.",
+    "Role in the Emergency (1975-77): ABVP played a crucial role in restoring democracy by actively resisting the Emergency imposed by the government, advocating for civil liberties, and opposing authoritarian rule."
+  ],
+  "bks_description": "Bharatiya Kisan Sangh – Working Among Farmers to Make Farming Sustainable\n\nThe Bharatiya Kisan Sangh (BKS) is a farmers' organization founded by Dattopant Thengdi and Bhau Sahab Bhuskute in 1978. It has been advocating for greater consultation with farmers by the government before making decisions on genetically modified crops.",
+
+  "bks_milestones": [
+    "1978: Bharatiya Kisan Sangh (BKS) was founded by Dattopant Thengdi and Bhau Sahab Bhuskute.",
+    " Encourages organic and cattle-based farming practices across India.",
+    "Advocates for scientific methods in fair price determination of crops.",
+    "Actively influences public policy on agriculture.",
+    "Pushes for greater consultation with farmers before government decisions on genetically modified crops."
+  ],
+  "sanskar_description": "Sanskar Bharati – Inculcating Goodness through Indian Fine Arts\n\nSanskar Bharati was established in 1981 to enhance national awareness of fine arts and provide a platform for the artists of the nation.\n\nPromoting Indian Art & Culture:\n\n- Sanskar Bharati organizes various performances across India to promote Indian art, culture, and diverse fine art forms.\n- The organization's mission statement is:\n\n  'सा कला या विमुक्तये'  \n  _'That art which liberates.'_  \n  \n  This phrase signifies the belief that true art leads to liberation—intellectually, spiritually, or socially. It aligns with Indian philosophical traditions, where art is not merely a form of entertainment but serves as a medium for enlightenment, knowledge, and cultural upliftment.",
+
+  "sanskar_milestones": [
+    "1981: Sanskar Bharati was established to enhance national awareness of Indian fine arts.",
+    "Organizes cultural performances across India to promote Indian art and heritage.",
+    "Provides a platform for artists to showcase traditional Indian fine arts.",
+    "Advocates the philosophy of 'सा कला या विमुक्तये'—'That art which liberates.'"
+  ],
+  "samskrita_description": "Samskrita Bharati – Reviving the Ancient Language of the Land\n\nEstablished in 1981, Samskrita Bharati is dedicated to reintroducing Sanskrit into daily life through the ‘Speak Sanskrit’ movement.",
+
+  "samskrita_milestones": [
+    "1981: Samskrita Bharati was established to promote Sanskrit in daily life.",
+    "1,20,000 Sambhashana Shibirs organized, training over one crore people to speak Sanskrit.",
+    "1,35,000 Sanskrit teachers trained to teach using Sanskrit as the medium of instruction.",
+    "Over 6,000 homes converted into Sanskrit-speaking households.",
+    "Four villages, including Mattur in Karnataka, transformed into full Sanskrit-speaking communities.",
+    "Sanskrit promoted through 4,500 centers across 26 countries worldwide."
+  ],
+
+  "kreeda_description": "Kreeda Bharati – Character Building Through Sports\n\nKreeda Bharati is an organization dedicated to working with sportspersons. Established in December 1992, it organizes sports training, identifies talented individuals, and provides them with opportunities to excel in the field of sports.",
+
+  "kreeda_milestones": [
+    "1992: Kreeda Bharati was established to promote sports and character-building.",
+    "'Kreeda Kendras' launched with the vision of 'a playground in every village,' strengthening grassroots sports development.",
+    "Trains volunteers to conduct sports awareness programs, including Surya Namaskar sessions.",
+    "Introduced 'Jijamata Samman' to honor mothers of successful athletes for their role in shaping sports champions.",
+    "Organizes the prestigious Dr. Hedgewar Trophy Kabaddi Tournament and knowledge competitions in various sports disciplines."
+  ],
+
+  "sjm_description": "Swadeshi Jagaran Manch – Towards a Self-Reliant Bharat\n\nTo carry forward the ideals of the Swadeshi tradition advocated by great personalities like Lokmanya Tilak, Veer Savarkar, Sri Aurobindo, and Mahatma Gandhi, Swadeshi Jagaran Manch (SJM) was established in November 1991.",
+
+  "sjm_milestones": [
+    "1991: Swadeshi Jagaran Manch (SJM) was established to promote economic nationalism and self-reliance.",
+    "1995: A 600-km padayatra from Wardha was conducted to demand cow protection and highlight the importance of India's cattle wealth.",
+    "1996: A 7,000-km boat march (Jal Yatra) was carried out to protest deep-sea fishing licenses granted to multinational corporations.",
+    "1998: Swadeshi Chetana Yatra warned people about external threats and encouraged participation in the Swadeshi movement.",
+    "1999: A mass rally in Delhi challenged the undemocratic structure of the World Trade Organization (WTO).",
+    " Regular Swadeshi exhibitions are held to promote and support Swadeshi entrepreneurs across India."
+  ],
+
+  "seva_description": "Seva Bharati: Transforming Communities with Education, Healthcare & Relief\n\nSeva Bharati is a conglomeration of organizations with the objective of bringing relief to underprivileged people living in tribal & rural areas and urban slums. It works in areas such as education, healthcare, self-reliance, and disaster relief.",
+
+  "seva_milestones": [
+    "Seva Bharati has been consistently working for the upliftment of underprivileged communities in rural and urban areas.",
+    "Provides education, healthcare, and self-reliance programs to marginalized communities.",
+    "Plays a vital role in disaster relief efforts, providing essential supplies during floods in Assam, Kerala, Himachal Pradesh, and Sikkim.",
+    "2020-21: Led Covid-19 relief efforts by supplying oxygen cylinders, ventilators, food, and medical support across India.",
+    "Conducts research and surveys on malnutrition, the impact of hostels in the North East, leprosy, and orphanages like Matru Chaya."
+  ],
+  "vibha_description": "Vijnana Bharati: Fostering Innovation & Self-Reliance in Indian Science\n\nVijnana Bharati (VIBHA) is a national movement dedicated to promoting science and technology in India through a Swadeshi spirit, emphasizing indigenous development and self-reliance. It was established in October 1991.",
+
+  "vibha_milestones": [
+    "1991: Vijnana Bharati (VIBHA) was established to promote self-reliance and indigenous development in Indian science and technology.",
+    " Expanded to 22 state units across India and maintains contacts in 4 additional states.",
+    " Works in 11 different areas through autonomous institutions and independent organizations.",
+    "2015: Launched Vidyarthi Vigyan Manthan (VVM) in collaboration with Vigyan Prasar and NCERT, recognized as India's largest online science talent search exam.",
+    "2021: Received the Climate CoLab Popular Choice Award from MIT, USA, for its proposal on creating a network of young Energy Ambassadors."
+  ],
+
+  "laghu_description": "Laghu Udyog Bharati: Empowering Micro & Small Industries Across India\n\nLaghu Udyog Bharati (LUB), established in 1994, is a registered all-India organization dedicated to representing and supporting micro and small industries across India.",
+
+  "laghu_milestones": [
+    "1994: Laghu Udyog Bharati (LUB) was established to represent and support micro and small industries across India.",
+    " Expanded its network to more than 400 districts and 250 branches, strengthening outreach.",
+    "Membership base has grown significantly, reinforcing its influence in the sector.",
+    "Actively represents micro and small industries in various government committees and policy-making boards."
+  ],
+
+  "sb_description": "Sahakar Bharati: Strengthening the Cooperative Movement Nationwide\n\nSahakar Bharati is a pan-India organization dedicated to promoting and strengthening the cooperative movement across the country. It was registered in 1979. The organization operates with the mission statement:\n\n'बिना संस्कार नहीं सहकार। बिना सहकार नहीं उद्धार॥' - 'Without values, there is no cooperation. Without cooperation, there is no upliftment.'",
+
+  "sb_milestones": [
+    "1979: Sahakar Bharati was registered as a national organization to promote the cooperative movement.",
+    " Expanded its presence to over 400 districts, making it India's largest NGO in the cooperative sector.",
+    " Established an extensive network of more than 20,000 cooperative societies across the country."
+  ],
+
+  "abgp_description": "Akhil Bhartiya Grahak Panchayat: Championing Consumer Rights Since 1975\n\nThe Akhil Bhartiya Grahak Panchayat (ABGP) is an Indian consumer organization dedicated to promoting consumer rights and fostering ethical practices among producers and sellers. It was founded in 1975 by the late Bindu Madhav Joshi, a freedom fighter and RSS swayamsevak. ABGP aims to create a harmonious society by balancing the interests of farmers, producers, sellers, consumers, and administrators.",
+
+  "abgp_milestones": [
+    "1974: Established as 'Yuvak Mahamandal Janata Grahak Sangh' in Pune, organizing the first direct producer-to-consumer supply.",
+    "1975: Formally inaugurated as Akhil Bhartiya Grahak Panchayat (ABGP) on December 23 by Justice M.C. Chagla.",
+    "By 2017: Expanded to over 25 states and nearly 200 districts, strengthening consumer advocacy across India."
+  ],
+  "ab_description": "Arogya Bharti: Empowering Health Through Indian Life Values\n\nArogya Bharti is an organization comprising healthcare professionals and service-oriented individuals from various medical disciplines, dedicated to promoting health awareness based on Indian life values. It was established on November 2, 2002, in Kochi, coinciding with the birth anniversary of Lord Dhanvantari, and was officially registered as Arogya Bharti Lok Nyas on July 29, 2004, in Bhopal.",
+
+  "ab_milestones": [
+    "2002: Arogya Bharti was established in Kochi on the birth anniversary of Lord Dhanvantari.",
+    "2004: Officially registered as Arogya Bharti Lok Nyas in Bhopal.",
+    "Ongoing: Expanded to all Indian states and operates programs in 85% of the country's districts.",
+    "2006: Initiated the Indian Health Contemplation in Bhopal, influencing Indian health policy.",
+    " Participated in disaster relief efforts, including the Nepal earthquake, Gujarat and Rajasthan floods, and the global COVID-19 pandemic.",
+    " Conducts school health programs, reaching over 2,000 schools and 100,000+ students.",
+    " Works on the conservation and promotion of herbal medicine.",
+    " Publishes the 'Arogya Sampada' monthly magazine for health education and positive lifestyle promotion."
+  ],
+
+  "bvp_description": "Bharat Vikas Parishad: Building a Swasth, Samarth, Sanskarit Bharat\n\nBharat Vikas Parishad is a voluntary, non-political, socio-cultural organization dedicated to the development and growth of India in all fields of human endeavor.",
+
+  "bvp_milestones": [
+    "1963: Bharat Vikas Parishad was established to promote national unity, patriotism, and development.",
+    "1969: Launched 'Niti,' the organization's official mouthpiece for promoting its ideals.",
+    "1973: Installed Chhatrapati Shivaji Maharaj's statue in Delhi as a significant cultural initiative.",
+    "Established 'Divyang Sahayata Kendras' across various cities to support differently-abled individuals.",
+    "Implementing 'Samagra Gram Vikas' for rural infrastructure and livelihood development."
+  ],
+
+  "abap_description": "Reviving Dharma in Advocacy: The Journey of ABAP\n\nThe Akhil Bharatiya Adhivakta Parishad (ABAP) was established in 1992 with the aim of reviving Indian values and instilling idealism among advocates to enhance the efficacy and standards of the Bar and Judiciary in India.",
+
+  "abap_milestones": [
+    "1992: Akhil Bharatiya Adhivakta Parishad (ABAP) was established to revive Indian values in advocacy.",
+    " Organized nearly 15 national conferences on legal discourse and judicial reforms.",
+    "Publishes 'Nyaya Pravah,' a bilingual quarterly magazine on legal updates and discourse.",
+    " Established 'Nyaya Kendras' (Legal Aid Centers) to provide justice to marginalized communities.",
+    " Conducts regular seminars, symposiums, and workshops to enhance legal education and awareness."
+  ],
+  "abisy_description": "Akhil Bharatiya Itihas Sankalan Yojana (ABISY): Reviving India's True History\n\nAbout the Organization & Formation\n\nAkhil Bharatiya Itihas Sankalan Yojana (ABISY) is a nationwide organization dedicated to the authentic, factual, and comprehensive documentation of Indian history, culture, and traditions. It was established in 1994 in Delhi with the mission of rewriting Indian history based on indigenous sources, scientific research, and archaeological findings.",
+
+  "abisy_milestones": [
+    "1994: Akhil Bharatiya Itihas Sankalan Yojana (ABISY) was established in Delhi to promote indigenous historical research.",
+    " Undertaking comprehensive reconstruction of Indian history from the Mahabharata era to the present.",
+    " Highlighting historical inaccuracies and uncovering lesser-known yet significant aspects of history.",
+    "Conducting major research projects, including studies on the Aryan Invasion Theory, Saraswati River, and Bharatiya Kalganana.",
+    "Documenting tribal history as part of preserving India's diverse cultural heritage."
+  ],
+
+  "hjm_description": "Hindu Jagran Manch: Championing Hindu Awakening Since 1982\n\nAbout the Organization & Formation\n\nHindu Jagran Manch (HJM), founded in 1982, focuses on countering religious conversions and promoting the reconversion of Muslims and Christians to Hinduism.",
+
+  "hjm_milestones": [
+    "1982: Hindu Jagran Manch (HJM) was founded to counter religious conversions and promote Hindu cultural identity.",
+    " Conducting 'Ghar Wapsi' programs to facilitate reconversions to Hinduism.",
+    " Advocating against religious conversions, particularly in tribal regions.",
+    " Organizing events and protests to raise awareness of issues affecting the Hindu community."
+  ],
+
+  "ssm_description": "Samajik Samrasta Manch - Equality Through Harmony\n\nSamajik Samrasta Manch, also known as Samarasata Manch, was inaugurated on April 14, 1983, in Pune. The occasion was marked by a speech from Dattopant Thengdi, a prominent thinker in the Rashtriya Swayamsevak Sangh (RSS). His speech, titled 'Equality Impossible Without Harmony,' became a guiding philosophy for the Manch.",
+
+  "ssm_milestones": [
+    "1983: Samajik Samrasta Manch (Samarasata Manch) was inaugurated in Pune with a speech by Dattopant Thengdi.",
+    " Advocates for policy changes, including the extension of tenure for the National Commission for Safai Karamcharis.",
+    " Organizes large-scale Ambedkar Jayanti celebrations in Mumbai, Pune, and Nashik.",
+    " Works towards harmonizing the reformist ideals of Mahatma Phule and Dr. Ambedkar with the broader Hindutva vision."
+  ],
+
+  "prajna_description": "Prajna Pravah: Revitalizing India's Intellectual and Cultural Landscape\n\nPrajna Pravah is a forum of nationalist thinkers aimed at fostering critical thinking and promoting progressive public discourse in the Indian intellectual and cultural landscape.",
+
+  "prajna_milestones": [
+    "2016: Organized the inaugural Lokmanthan event in Bhopal on 'De-Colonising Indian Minds.'",
+    "2018: Hosted the second Lokmanthan in Ranchi, themed 'Bharatbodh: Jan-Gan-Man.'",
+    "2022: Conducted the third Lokmanthan in Guwahati, focusing on 'Lokparampara.'",
+    " Expanded its network across various Indian states to promote Bharatiya intellectual and cultural traditions."
+  ],
+  "dri_description": "Deendayal Research Institute: Pioneering Rural Transformation\n\nFounded in 1968 by Nanaji Deshmukh, the Deendayal Research Institute (DRI) is an organization dedicated to socio-economic and applied research, aiming to implement the philosophy of 'Integral Humanism' as envisioned by Pandit Deendayal Upadhyaya.",
+
+  "dri_milestones": [
+    "1968: Deendayal Research Institute (DRI) was founded by Nanaji Deshmukh.",
+    "1978: Launched the Gonda Gramodaya Project for holistic rural transformation.",
+    "1991: Initiated the Chitrakoot Self-Reliance Campaign to promote self-sustaining villages.",
+    " Implementing rural development models emphasizing self-reliance, sustainable agriculture, and community well-being."
+  ],
+
+  "hsp_description": "Hindu Seva Pratishthana – ‘Little for Self, Everything for Society’\n\nEstablished in 1980, Hindu Seva Pratishthana (HSP) is dedicated to the upliftment of underserved communities and individuals with special needs.",
+
+  "hsp_milestones": [
+    "1980: Hindu Seva Pratishthana (HSP) was established for social service and community upliftment.",
+    "1987: Founded Aruna Chetana, a school for children with multiple disabilities.",
+    "2000: Launched Nele Foundation to provide residential care for destitute children.",
+    "2007: Started Youth for Seva to promote youth participation in social causes.",
+    "2011: Youth for Seva became an independent entity, continuing its volunteer-driven mission."
+  ],
+  "abrsm_description": "ABRSM – Promoting Self-Reliant and Culturally Aligned Education\n\nThe Akhil Bhartiya Rashtriya Shaikshik Mahasangh (ABRSM) is a professional organization dedicated to educational development in India. It emphasizes indigenous methodologies, drawing inspiration from India's rich cultural heritage, and operates independently of political affiliations.",
+
+  "abrsm_milestones": [
+    "1988: Akhil Bhartiya Rashtriya Shaikshik Mahasangh (ABRSM) was founded as a national educational organization.",
+    " Expanded to 35 state-level and over 50 university-level affiliated bodies across 24 states.",
+    " Organizes seminars, lecture series, and conferences on cultural nationalism and education.",
+    " Recognizes and honors exceptional educators for their contributions to the field.",
+    "Publishes literature and magazines to enrich educational discourse and promote Indian cultural values."
+  ],
+
+  "sakshama_description": "Fostering Ability in Disability: The Mission of Sakshama Karnataka\n\nSakshama Karnataka, officially known as Samadrushti Kshamatha Vikas and Anusandhana Mandala, is a national organization dedicated to the empowerment and holistic development of individuals with disabilities. The organization operates with the belief that 'each soul is potentially divine' and strives to integrate specially-abled individuals into the national mainstream, enabling them to contribute to their families and society.",
+
+  "sakshama_milestones": [
+    " Implementing educational programs to empower individuals with disabilities.",
+    "Advocating for eye health and vision care awareness.",
+    "Launching economic development initiatives to enhance financial independence for specially-abled individuals.",
+    " Organizing annual events to raise awareness about disability, including Surdas Jayanti, World Disability Day, and Louis Braille Jayanti."
+  ],
+  "rss_samiti_description": "Rashtra Sevika Samiti - World's Largest Hindu Women's Organisation\n\nThe Rashtra Sevika Samiti was founded in 1936 by Lakshmibai Kelkar (Mausiji) in Nagpur, after consulting Dr. Keshav Baliram Hedgewar, the founder of Rashtriya Swayamsevak Sangh (RSS). The organization consists of women volunteers and focuses on empowering women and fostering their participation in social and national development.",
+
+  "rss_samiti_milestones": [
+    "1936: Rashtra Sevika Samiti was founded in Nagpur by Lakshmibai Kelkar (Mausiji).",
+    "Running 700+ seva projects, including education, healthcare, and self-reliance programs.",
+    " Conducting 5,000+ daily shakhas across India for character building among women.",
+    "1990s: Played a significant role in the Shri Ram Janmabhoomi movement, with 20,000 women karsevikas arrested.",
+    " Providing disaster relief efforts during cyclones, earthquakes, and national emergencies.",
+    " Advocating for women's empowerment rooted in cultural and national development."
+  ],
+
+  "absp_description": "ABSP - Promoting Indian Language Literature\n\nThe Akhila Bharata Sahitya Parishat (ABSP) is an all-India literary organization dedicated to the creation and dissemination of high-quality literary and creative works in every Indian language. It aims to preserve and promote Bharatiya values through literature and artistic expression.\n\nKey Milestones & Achievements:\n\n- Promotion of Indian Literature: ABSP works towards the development and dissemination of literary works rooted in Indian cultural and linguistic traditions.\n- Recognition of Literary Figures: The organization honors and facilitates renowned literary figures who have upheld Bharatiya values through their work.\n- Multilingual Outreach: ABSP actively supports and promotes literature in all Indian languages, ensuring the richness of regional and classical literary traditions is preserved and celebrated.",
+
+  "absp_milestones": [
+    " Promoting high-quality literary and creative works in all Indian languages.",
+    " Recognizing and honoring literary figures who contribute to Bharatiya values.",
+    " Supporting multilingual literary initiatives across India."
+  ],
+  "fins_description": "FINS – Advancing Strategic Research and National Security\n\nThe Forum for Integrated National Security (FINS) is an apolitical think tank dedicated to the study and promotion of integrated national security in India. It was conceptualized in 2003 by defense experts who recognized the need to move away from a compartmentalized approach towards a holistic Integrated National Security framework.",
+
+  "fins_milestones": [
+    "2003: Forum for Integrated National Security (FINS) was conceptualized by defense experts.",
+    " Conducting strategic research and advocating for integrated national security policies.",
+    " Publishing the 'FINS Journal of Diplomacy & Strategy' on security, defense, and diplomacy.",
+    " Offering fellowships and internships for professionals and young leaders in national security.",
+    " Hosting events like the Manohar Parrikar Memorial Lecture to promote discourse on security matters."
+  ],
+  "nmo_description": "NMO: A Movement of Medicos for National Service\n\nThe National Medicos Organisation (NMO) is a collective of medical professionals and students in India, established in 1977 during the 23rd national conference of the Akhil Bharatiya Vidyarthi Parishad (ABVP). Its primary aim is to mobilize medicos to serve underprivileged communities, especially in rural and tribal areas. NMO focuses on developing national character, fostering devotion to the nation and humanity, and building fraternity among medical students and professionals.\n\nKey Milestones & Achievements:\n\n- Dhanvantari Seva Yatra (2003-Present): A mega health campaign operating across Northeastern states of India, jointly organized by Seva Bharati Purvanchal and NMO, providing free medical assistance, health awareness, and hygiene education.\n\n- Medical Camps: NMO conducts regular medical camps in remote and underserved regions, addressing areas not covered by government healthcare services.\n\n- Health Promotion and Awareness Campaigns: The organization educates the public on preventive healthcare, focusing on lifestyle diseases, hygiene, and awareness of common and critical health issues.\n\n- Support for Medical Professionals: NMO fosters mentorship among doctors and students, helping them navigate their careers and solve emerging medical challenges.",
+
+  "nmo_milestones": [
+    "1977: National Medicos Organisation (NMO) was founded during the 23rd ABVP national conference.",
+    "2003: Launched Dhanvantari Seva Yatra, providing free medical aid in Northeastern states.",
+    " Conducting medical camps in rural and tribal regions across India.",
+    " Running health awareness campaigns focusing on hygiene, lifestyle diseases, and preventive healthcare.",
+    " Supporting medical professionals through mentorship and career development programs."
+  ],
+  "abpssp_description": "ABPSSP: Uniting Ex-Servicemen for National Service\n\nThe Akhil Bharatiya Poorva Sainik Seva Parishad (ABPSSP) is dedicated to mobilizing ex-servicemen for national service, working since 1995. Its primary objective is to utilize the disciplined and dedicated strength of former soldiers for national unity, integrity, and internal security. Additionally, the organization is active in education, healthcare, sanitation, and social welfare, especially in rural and remote areas.",
+
+  "abpssp_milestones": [
+    "1995: Akhil Bharatiya Poorva Sainik Seva Parishad (ABPSSP) was established to mobilize ex-servicemen for national service.",
+    "2001: Launched Sainik Parivar Kalyan Nyas (SPKN) to support the families of fallen ex-servicemen.",
+    "2006: Initiated Sainya Matri Shakti to empower women and support disabled soldiers and their families.",
+    " Engaged in education, healthcare, and social welfare projects across rural and remote areas."
+  ],
+  "samartha_description": "Samartha Bharata: Uniting Volunteers for a Better India\n\nSamartha Bharata is a campaign and volunteer platform based in Karnataka, India, dedicated to addressing social, economic, civic, environmental, and other challenges. Established in 2014, the organization aims to transform Bharat by involving people in sustainable initiatives and fostering a spirit of nationalism.",
+
+  "samartha_milestones": [
+    "2014: Samartha Bharata was established as a volunteer platform for social change.",
+    "2014: Launched the 'Be Good Do Good' campaign to promote youth volunteerism through Vivek Bands.",
+    "2014: Organized a two-day camp in Bangalore, engaging 3,800 volunteers in social initiatives.",
+    " Conducting plantation drives and environmental conservation programs for a sustainable future."
+  ],
+
+  "vsk_description": "Vishwa Samvada Kendra: Bridging Media and National Thought\n\nVishwa Samvada Kendra (VSK), established in 1992, is an organization actively involved in the media sector, disseminating national ideas, raising social awareness, and broadcasting positive and inspirational news. It operates as the media communication wing of the Rashtriya Swayamsevak Sangh (RSS) and carries out various multifaceted activities.",
+
+  "vsk_milestones": [
+    "1992: Vishwa Samvada Kendra (VSK) was established as the media communication wing of RSS.",
+    " Managing official media communications, press releases, and public event coverage for RSS.",
+    " Organizing Narada Jayanti celebrations to honor journalists and discuss contemporary journalism.",
+    "2006: Launched Samvada.org, a multilingual digital platform for news and analysis.",
+    " Running 'Samvada' video channel on Facebook and YouTube, reaching millions.",
+    "2020: Launched SamvadaWorld.com as an international news and analysis platform."
+  ]
+}
