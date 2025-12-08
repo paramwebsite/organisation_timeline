@@ -19,10 +19,11 @@ import Hindu_Jagran_Manch from '../src/images/Hindu_Jagran_Manch.png';
 import samajik_samarasata from '../src/images/samajik_samarasata.png';
 import rashtriya_shikshak_sangh from '../src/images/rashtriya_shikshak_sangh.png';
 import Sanskar_Bharti from '../src/images/sahkar_bharti.png';
+import seva_bharati from '../src/images/seva_bharati.png'
 import SwadeshiJagranManch from '../src/images/SwadeshiJagranManch.png';
 import VijnanaBharati from '../src/images/VijnanaBharati.png';
 import Kreeda_Bharati from '../src/images/Kreeda_Bharati.png';
-import akhila_bharatiya_adhivakta_parishad from '../src/images/Akhil_Bharatiya_Sahitya_Parishad.png';
+import akhila_bharatiya_adhivakta_parishad from '../src/images/akhila_bharatiya_adhivakta_parishad.png';
 import Saksham_logo from '../src/images/Saksham_logo.png';
 import Prajna_Pravah from '../src/images/Prajna_Pravah.png';
 import Vishwa_samvada_Kendra from '../src/images/Vishwa_samvada_Kendra.png';
@@ -291,7 +292,7 @@ export const timelineData: TimelinePeriod[] = [
         id: 'seva',
         name: 'Seva Bharati',
         year: 1989,
-        image: Sanskar_Bharti,
+        image: seva_bharati,
         mission: 'Volunteer organization dedicated to social service and community development.',
         milestones: [
           'Launched volunteer programs',
